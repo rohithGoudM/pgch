@@ -95,8 +95,8 @@ h6 {
   display: table;
   width: 100%;
   height: auto;
-  padding-top: 9rem;
-  padding-bottom: 9rem;
+  padding-top: 11rem;
+  padding-bottom: 11rem;
   background: linear-gradient(90deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 100%), url("../img/suit.jpg");
   background-position: center center;
   background-repeat: no-repeat;
